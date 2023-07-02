@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import discord
 import aiohttp
 import asyncio
-import os
+import os 
 from dotenv import find_dotenv, load_dotenv
 
 
